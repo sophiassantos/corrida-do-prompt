@@ -118,7 +118,7 @@ contraste alto, textura de tela visível."
 
 ### 🖼️ Resultado Final
 
-![Astronauta tocando violoncelo em Marte](<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/262632a6-1e60-4b0a-9fc0-2247ce60d12e" />)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/27bbd128-67e8-413e-bb3a-57a9a1f366c9" />
 
 ---
 
