@@ -68,3 +68,39 @@ Comandante da Fragata Liberdade
 ## 🎨 Desafio 2 — Pintura a Óleo: Astronauta em Marte
 
 ### Prompt 1
+"Pintura a óleo hiper-realista, estilo barroco. Um astronauta solitário
+tocando violoncelo de madeira nobre na superfície vermelha de Marte.
+Traje espacial branco com detalhes em filigrana de ouro e tecido aveludado.
+Fundo com terreno rochoso e a Terra visível no céu escuro. Iluminação
+focada no astronauta, sombras suaves, alta resolução, obra-prima."
+
+### Prompt 1
+"Pintura a óleo hiper-realista, estilo barroco. Um astronauta solitário
+tocando violoncelo de madeira nobre na superfície vermelha de Marte.
+Traje espacial branco com detalhes em filigrana de ouro e tecido aveludado.
+Fundo com terreno rochoso e a Terra visível no céu escuro. Iluminação
+focada no astronauta, sombras suaves, alta resolução, obra-prima."
+
+### Prompt 2
+"Obra-prima em óleo estilo Barroco, dramaticidade máxima. Técnica de
+chiaroscuro (claro-escuro) intensa, reminiscente de Caravaggio. Um
+astronauta iluminado por um holofote divino tocando violoncelo em Marte.
+Contraste forte entre luz dourada e sombras profundas. Poeira vermelha
+iluminada pela luz. Atmosfera melancólica e sagrada. A Terra brilha
+fracamente ao fundo na escuridão do espaço."
+
+### Prompt 3
+"Pintura detalhada em óleo, close-up cinematográfico. Traje espacial
+barroco luxuoso: cerâmica branca, ornamentos de ouro envelhecido, juntas
+de veludo azul profundo. Violoncelo de madeira envernizada com reflexos
+de luz. Superfície de Marte com textura de poeira e rochas nítidas.
+Renderização de texturas 8k, tangível, realismo tátil. O astronauta
+segura o arco com graça humana."
+
+### Prompt 4
+"Pintura detalhada em óleo, close-up cinematográfico. Traje espacial
+barroco luxuoso: cerâmica branca, ornamentos de ouro envelhecido, juntas
+de veludo azul profundo. Violoncelo de madeira envernizada com reflexos
+de luz. Superfície de Marte com textura de poeira e rochas nítidas.
+Renderização de texturas 8k, tangível, realismo tátil. O astronauta
+segura o arco com graça humana."
