@@ -104,3 +104,15 @@ de veludo azul profundo. Violoncelo de madeira envernizada com reflexos
 de luz. Superfície de Marte com textura de poeira e rochas nítidas.
 Renderização de texturas 8k, tangível, realismo tátil. O astronauta
 segura o arco com graça humana."
+
+### Prompt 4
+"Uma pintura a óleo hiper-realista em estilo barroco, obra-prima premiada.
+Astronauta vestindo traje espacial ornamentado com filigrana dourada e
+texturas aveludadas, tocando apaixonadamente um violoncelo de madeira
+nobre. Cenário: superfície rochosa e empoeirada de Marte. Iluminação
+dramática em chiaroscuro com sombras profundas e forte holofote lateral,
+reminiscente de Caravaggio. Ao fundo, visão tênue da Terra no céu escuro
+estrelado. Composição cinematográfica, atmosfera emocional, detalhes
+intricados, resolução 8k, octane render, iluminação global, cores ricas,
+contraste alto, textura de tela visível."
+
