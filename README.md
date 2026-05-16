@@ -16,7 +16,7 @@ gerado pela IA.
 ### Prompt 1
 "Write a formal apology email from a pirate to a king."
 
-###Prompt 2 
+### Prompt 2 
 "Escreva um e-mail formal de desculpas de um pirata do século 18 para
 um rei europeu. O pirata atacou um navio real por engano. Use linguagem
 respeitosa e evite gírias modernas. O tom deve ser de arrependimento sincero."
