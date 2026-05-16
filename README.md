@@ -116,3 +116,16 @@ estrelado. Composição cinematográfica, atmosfera emocional, detalhes
 intricados, resolução 8k, octane render, iluminação global, cores ricas,
 contraste alto, textura de tela visível."
 
+### 🖼️ Resultado Final
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/262632a6-1e60-4b0a-9fc0-2247ce60d12e" />
+![Astronauta tocando violoncelo em Marte](assets/resultado-marte.png)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- IA Generativa (texto e imagem)
+
+
+
